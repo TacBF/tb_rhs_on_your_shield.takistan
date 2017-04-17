@@ -1,0 +1,12 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen.jpg"
+
+onLoadName="On Your Shield";
+overviewPicture = "tb_loadingScreen.jpg";
+author="Hapless";
+onLoadMission="Foreign Fighters Attacking US Army, Infantry and Transport Vehicles- Fight for the high ground!";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
